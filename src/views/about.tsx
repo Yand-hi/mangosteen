@@ -8,3 +8,5 @@ export const About = defineComponent({
       </>
   }
 })
+
+export default About
